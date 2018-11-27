@@ -42,8 +42,14 @@ url: [百度](https://www.baidu.com/ "百度链接")
 ![百度logo](http://www.baidu.com/img/bdlogo.gif "baidu图片")
 
 <br><br>
+图片链接：
 [![baidu]](http://www.baidu.com)
 
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
+
+public static void main(String[]args){} //Java
+```java
+public static void main(String[]args){} //Java
+```
 
