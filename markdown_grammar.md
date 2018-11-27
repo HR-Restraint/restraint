@@ -19,7 +19,7 @@
 
 高亮`特殊文本`
 
-    Url：[百度](https://www.baidu.com/ "百度链接")
+url: [百度](https://www.baidu.com/ "百度链接")
 
 * 标题1
 * 标题2
@@ -40,7 +40,7 @@
 ![百度logo](http://www.baidu.com/img/bdlogo.gif "baidu图片")
 
 <br><br>
-[![baidu]](www.baidu.com)
+[![baidu]](http://www.baidu.com)
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
 
